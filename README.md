@@ -4,6 +4,10 @@ Vim syntax highlighting and indentation for [Astro](https://astro.build)
 
 This is mostly just HTML syntax highlighting with some keywords added 
 
+## Changes from `rajasegar/vim-astro`
+
+Removed all indentation and plugin integration code so the plugin is purely syntax highlighting.
+
 ## Dependencies
 
 The JavaScript highlighting depends on [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript). That ships with
